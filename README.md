@@ -1,4 +1,4 @@
-Rvdcoin 1.3 BETA
+Rvdcoin 1.4 BETA
 ====================
 
 Copyright (c) 2009-2013 Bitcoin Developers
